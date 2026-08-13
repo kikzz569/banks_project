@@ -108,7 +108,3 @@ Cada etapa do pipeline (extração, transformação, carga em CSV, carga no banc
 - Orquestrar o pipeline com Airflow, incluindo agendamento e alertas de falha.
 
 ---
-
-## 👤 Autor
-
-Projeto desenvolvido por **Kaic Mendes**, estudante de Análise e Desenvolvimento de Sistemas (UniCesumar) com foco em Engenharia de Dados.
